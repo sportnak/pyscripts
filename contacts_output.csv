@@ -1,0 +1,40 @@
+entity,title,result
+6542a31da129cb65b87a71f6,"{'title': 'Finance Director', 'regex': '/Finance/i'}","{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}"
+6542a31da129cb65b87a71f6,"{'title': 'Finance Director', 'regex': '/Finance/i'}","{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}"
+65a603f5c769fa16f65918ff,"{'title': 'Finance Director', 'regex': '/Finance/i'}","{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}"
+6542a31da129cb65b87a71f6,"{'title': 'Finance Director', 'regex': '/Finance/i'}","[{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}]"
+65a603f5c769fa16f65918ff,"{'title': 'Finance Director', 'regex': '/Finance/i'}","The best possible contact based on the criteria of 'Finance Director' and place_id '6542a31da129cb65b87a71f6' is the following: 
+
+{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}"
+6542a31da129cb65b87a71f6,"{'title': 'Finance Director', 'regex': '/Finance/i'}","[{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}]"
+65a603f5c769fa16f65918ff,"{'title': 'Finance Director', 'regex': '/Finance/i'}","{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}"
+6542a31da129cb65b87a71f6,"{'title': 'Finance Director', 'regex': '/Finance/i'}","{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}"
+65a603f5c769fa16f65918ff,"{'title': 'Finance Director', 'regex': '/Finance/i'}","{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}"
+6542a31da129cb65b87a71f6,"{'title': 'Finance Director', 'regex': '/Finance/i'}","The best contact for the Finance Director at location 6542a31da129cb65b87a71f6 is:
+
+First Name: Misty,
+Last Name: Dodge,
+Title: Finance Director/Comptroller,
+Department: Finance,
+Place ID: 6542a31da129cb65b87a71f6."
+65a603f5c769fa16f65918ff,"{'title': 'Finance Director', 'regex': '/Finance/i'}","{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}"
+6542a31da129cb65b87a71f6,"{'title': 'Finance Director', 'regex': '/Finance/i'}","[{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}]"
+65a603f5c769fa16f65918ff,"{'title': 'Finance Director', 'regex': '/Finance/i'}",The best possible contact for the Finance Director at the location with the ID 6542a31da129cb65b87a71f6 is Misty Dodge who works in the Finance Department as a Finance Director/Comptroller.
+6542a31da129cb65b87a71f6,"{'title': 'Finance Director', 'regex': '/Finance/i'}","{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}"
+65a603f5c769fa16f65918ff,"{'title': 'Finance Director', 'regex': '/Finance/i'}","{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}"
+6542a31da129cb65b87a71f6,"{'title': 'Finance Director', 'regex': '/Finance/i'}","{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}"
+65a603f5c769fa16f65918ff,"{'title': 'Finance Director', 'regex': '/Finance/i'}","{'first_name': 'Misty', 'last_name': 'Dodge', 'title': 'Finance Director/Comptroller', 'department': 'Finance', 'place_id': '6542a31da129cb65b87a71f6'}"
+65a603f5c769fa16f65918ff,"{'title': 'Finance Director', 'regex': '/Finance/i'}","{'first_name': 'Youmara', 'last_name': 'Youmara', 'title': 'Finance Director', 'department': 'Finance Department', 'place_id': '65a603f5c769fa16f65918ff'}"
+65a603f7c769fa16f659388d,"{'title': 'Finance Director', 'regex': '/Finance/i'}","Here are the contact details of the two Finance Directors at the specified location:
+
+1. Name: Angie Steinman
+   Title: Finance Director
+   Department: Finance
+   Place ID: 65a603f7c769fa16f659388d
+
+2. Name: Brian Steinman
+   Title: Finance Director
+   Department: Finance
+   Place ID: 65a603f7c769fa16f659388d"
+6542a33ea129cb65b87ac1d4,"{'title': 'Treasurer', 'regex': '/treasurer/i'}","The best contact based on the given criteria is: 
+{'first_name': 'Ann Marie', 'last_name': 'Ricardi', 'title': 'Treasurer/Fiscal Agent/Secretary', 'department': 'Middlesex Broadband Authority', 'place_id': '6542a33ea129cb65b87ac1d4'}"
